@@ -1,0 +1,49 @@
+{
+	"storyName": "That one furry",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "yiff_house",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		188,
+		249,
+		255
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Purple",
+			"banjo",
+			[
+				148,
+				189,
+				195
+			]
+		],
+		[
+			"It's Game",
+			"banjo",
+			[
+				148,
+				189,
+				195
+			]
+		],
+		[
+			"Track 3",
+			"banjo",
+			[
+				148,
+				189,
+				195
+			]
+		]
+	],
+	"weekCharacters": [
+		"banjoei",
+		"bf",
+		"gf"
+	],
+	"weekName": "Banjoei"
+}

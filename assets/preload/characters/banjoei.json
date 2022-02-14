@@ -3,76 +3,76 @@
 		{
 			"offsets": [
 				1,
-				0
+				5
 			],
-			"loop": false,
+			"loop": true,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "Senpai Idle",
-			"indices": []
-		},
-		{
-			"offsets": [
-				5,
-				37
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
 			"indices": [],
-			"name": "SENPAI UP NOTE"
+			"name": "Banjo Idle Dance"
 		},
 		{
 			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "SENPAI RIGHT NOTE"
-		},
-		{
-			"offsets": [
-				40,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "SENPAI LEFT NOTE"
-		},
-		{
-			"offsets": [
-				14,
-				0
+				18,
+				-72
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "SENPAI DOWN NOTE"
+			"name": "Banjo Down Note"
+		},
+		{
+			"offsets": [
+				-53,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Banjo NOTE LEFT"
+		},
+		{
+			"offsets": [
+				49,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Banjo Note Right"
+		},
+		{
+			"offsets": [
+				23,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "banjo Up note"
 		}
 	],
-	"no_antialiasing": true,
-	"image": "characters/senpai",
+	"no_antialiasing": false,
+	"image": "Universe/furry_yiff",
 	"position": [
-		150,
-		360
+		0,
+		320
 	],
-	"healthicon": "senpai-pixel",
+	"healthicon": "banjo",
 	"flip_x": false,
 	"healthbar_colors": [
-		255,
-		170,
-		111
+		188,
+		249,
+		255
 	],
 	"camera_position": [
-		-240,
-		-330
+		70,
+		50
 	],
 	"sing_duration": 4,
-	"scale": 6
+	"scale": 0.9
 }
